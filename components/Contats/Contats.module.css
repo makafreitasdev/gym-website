@@ -1,0 +1,23 @@
+.container {
+    background-color: azure;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 700px;
+    font-family: 'Lato', sans-serif;
+}
+
+.content {
+    
+}
+
+.title {
+    font-size: 50px;
+    padding-bottom: 70px;
+}
+
+
+.title span {
+    color: rgb(219, 30, 30);
+}

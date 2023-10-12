@@ -1,0 +1,33 @@
+.personalContainer {
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.personalContent{
+    background-image: url(/img/personal-image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: 5px solid rgb(219, 30, 30);
+    font-family: 'Lato', sans-serif;
+    border-radius: 5px;
+    width: 50%;
+    height: 800px;
+    gap: 30px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    align-items: center;
+    color: azure;
+}
+
+.personals {
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    gap: 100px
+}
