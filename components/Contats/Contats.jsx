@@ -12,22 +12,26 @@ export default function Contats() {
         <div className={styles.socials}>
           <Image 
             src="/img/facebook.png"
-            width={80}
-            height={80}
+            width={50}
+            height={50}
             alt="facebook"
           />  
           <Image 
             src="/img/instagram.png"
-            width={80}
-            height={80}
+            width={50}
+            height={50}
             alt="instagram"
           />  
           <Image 
             src="/img/youtube.png"
-            width={80}
-            height={80}
+            width={50}
+            height={50}
             alt="youtube"
+            href="#"
           />  
+        </div>
+        <div className={styles.copy}>
+          <h3>Copyright © 2023 Gym Center Training. Todos os direitos reservados.</h3>
         </div>
       </div>
     </div>
