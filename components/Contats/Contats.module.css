@@ -1,5 +1,5 @@
 .container {
-    background-color: azure;
+    background-color: lightgray;
     color: #000;
     display: flex;
     flex-direction: column;
@@ -47,5 +47,4 @@
 
 .copy {
     padding-top: 30px;
-    color: rgb(219, 30, 30);
 }
