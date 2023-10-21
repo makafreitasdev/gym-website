@@ -51,6 +51,9 @@ export default function Home() {
        <section>
         <Contats />
        </section>
+       <section>
+        <p className={styles.dev}>Desenvolvido por <span>Matheus Freitas</span></p>
+       </section>
       </main>
     </>
   );

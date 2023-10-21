@@ -55,7 +55,7 @@ export default function Plans() {
   };
 
   return (
-    <div className={styles.carrosseilContainer}>
+    <div className={styles.carrosselContainer}>
       <button className={styles.button} onClick={handlePrevClick}>
         &lt;
       </button>
